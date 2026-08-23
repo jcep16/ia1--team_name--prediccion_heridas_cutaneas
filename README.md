@@ -1,3 +1,8 @@
+Integrantes:
+- Juan David Gomez Mosquera
+- Juan Carlos Elizalde
+- Erick Fabian Martinez
+
 # Video del proyecto
 
 https://youtu.be/mZmOiTsktgA
